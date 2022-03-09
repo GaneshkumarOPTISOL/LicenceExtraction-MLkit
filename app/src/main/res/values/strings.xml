@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DemoAppClient</string>
+    <string name="pointing_message">Point towards the card and take a picture</string>
+    <string name="ok">OK</string>
+    <string name="extracting_text">Extracting Text</string>
+    <string name="name">First Name</string>
+    <string name="mobile_number">Last Name</string>
+    <string name="home_phone">DOB</string>
+    <string name="email">Nationality</string>
+    <string name="address">Valid From</string>
+    <string name="rawText">Raw Text</string>
+    <string name="url">Valid Until</string>
+    <string name="date_amp_time">Issuing Authority</string>
+    <string name="unique_identifier">Unique Identifier</string>
+    <string name="addresses">Address</string>
+    <string name="save_as_contact">Save as Contact</string>
+    <string name="phone_number_needed">Name and Phone number are mandatory</string>
+    <string name="ok_label">OK</string>
+    <string name="error_label">Error</string>
+    <string name="photo_saved">Photo has been saved to Camera</string>
+</resources>

@@ -1,0 +1,2 @@
+com/optisol/documentscanner/BuildConfig.java
+ com.optisol.documentscanner.BuildConfig
